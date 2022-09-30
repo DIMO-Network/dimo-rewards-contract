@@ -1,7 +1,9 @@
-# Smart Contract Dev Template
+# Rewards Contract
 
-Template for smart contract development using Typescript & Hardhat
+https://docs.dimo.zone/dimo/technical-documentation/rewards-contract
 
-[Available Scripts](https://github.com/yuichiroaoki/typescript-hardhat/wiki/Available-Scripts)
+## Deployments
 
-[Setup Environment Variables](https://github.com/yuichiroaoki/typescript-hardhat/wiki/Setup-Environment-Variables)
+| Network | Address |
+|-|-|
+| Mumbai | [0x7fc4016396d6f382f0de82cb53b2ff331f53cdbf](https://mumbai.polygonscan.com/address/0x7fc4016396d6f382f0de82cb53b2ff331f53cdbf) |
